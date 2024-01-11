@@ -1,0 +1,4 @@
+first run npm i 
+To run the application, execute the insertion script first:
+node scripts/insertSampleUsers.js
+node server.js
